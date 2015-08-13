@@ -3,3 +3,4 @@ line 2 change by feature c
 line 3
 line 4 file change by feature d
 line 5
+line 6
